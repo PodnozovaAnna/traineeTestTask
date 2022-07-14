@@ -1,4 +1,4 @@
 SELECT
-  COUNT(promocode_id)/COUNT(*) * 100 AS SharePromocode
+  COUNT(promocode_id)/COUNT(*) AS SharePromocode
 FROM
   orders
