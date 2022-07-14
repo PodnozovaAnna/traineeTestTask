@@ -1,0 +1,2 @@
+xpath - /html/body/main/div[2]/form/div[2]/button/svg/path
+CSS-селектор - body > main > div.body__content > form > div.search3__inner > button > svg > path
